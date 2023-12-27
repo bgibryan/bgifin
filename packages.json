@@ -1,7 +1,7 @@
 {
 	"all": {
 		"include": {
-			"bgifin": [
+			"bluefin": [
 				"bash-color-prompt",
 				"cockpit-bridge",
 				"evtest",
@@ -42,7 +42,7 @@
 				"wl-clipboard", 
 				"zsh"
 			],
-			"bgifin-dx": [
+			"bluefin-dx": [
 				"adobe-source-code-pro-fonts",
 				"cascadiacode-nerd-fonts",
 				"cockpit-machines",
@@ -102,7 +102,7 @@
 			]
 		},
 		"exclude": {
-			"bgifin": [
+			"bluefin": [
 				"firefox-langpacks",
 				"firefox",
 				"gnome-extensions-app",
@@ -110,41 +110,41 @@
 				"gnome-tour",
 				"ublue-os-update-services"
 			],
-			"bgifin-dx": []
+			"bluefin-dx": []
 		}
 	},
 	"38": {
 		"include": {
-			"bgifin": [
+			"bluefin": [
 				"gnome-shell-extension-tailscale-status"
 			],
-			"bgifin-dx": [],
-			"bgifin-framework": []
+			"bluefin-dx": [],
+			"bluefin-framework": []
 		},
 		"exclude": {
-			"bgifin": [
+			"bluefin": [
 				"podman-docker"
 			],
-			"bgifin-dx": []
+			"bluefin-dx": []
 		}
 	},
 	"39": {
 		"include": {
-			"bgifin": [
+			"bluefin": [
 				"gnome-shell-extension-tailscale-gnome-qs",
 				"input-leap",
                                 "nautilus-open-any-terminal"
 			],
-			"bgifin-dx": [],
-			"bgifin-framework": []
+			"bluefin-dx": [],
+			"bluefin-framework": []
 		},
 		"exclude": {
-			"bgifin": [
+			"bluefin": [
 				"podman-docker",
 				"gnome-terminal-nautilus"
 			],
-			"bgifin-dx": [],
-			"bgifin-framework": []
+			"bluefin-dx": [],
+			"bluefin-framework": []
 		}
 	}
 }
