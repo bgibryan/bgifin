@@ -1,11 +1,10 @@
 {
 	"all": {
 		"include": {
-			"bluefin": [
+			"bgifin": [
 				"bash-color-prompt",
 				"cockpit-bridge",
 				"evtest",
-				"fish",
 				"glow",
 				"gum",
 				"gnome-shell-extension-appindicator",
@@ -43,7 +42,7 @@
 				"wl-clipboard", 
 				"zsh"
 			],
-			"bluefin-dx": [
+			"bgifin-dx": [
 				"adobe-source-code-pro-fonts",
 				"cascadiacode-nerd-fonts",
 				"cockpit-machines",
@@ -97,12 +96,13 @@
 				"qemu",
 				"ubuntu-nerd-fonts",
 				"ubuntumono-nerd-fonts",
+				"wireguard-tools",
 				"virt-manager",
 				"virt-viewer"
 			]
 		},
 		"exclude": {
-			"bluefin": [
+			"bgifin": [
 				"firefox-langpacks",
 				"firefox",
 				"gnome-extensions-app",
@@ -110,41 +110,41 @@
 				"gnome-tour",
 				"ublue-os-update-services"
 			],
-			"bluefin-dx": []
+			"bgifin-dx": []
 		}
 	},
 	"38": {
 		"include": {
-			"bluefin": [
+			"bgifin": [
 				"gnome-shell-extension-tailscale-status"
 			],
-			"bluefin-dx": [],
-			"bluefin-framework": []
+			"bgifin-dx": [],
+			"bgifin-framework": []
 		},
 		"exclude": {
-			"bluefin": [
+			"bgifin": [
 				"podman-docker"
 			],
-			"bluefin-dx": []
+			"bgifin-dx": []
 		}
 	},
 	"39": {
 		"include": {
-			"bluefin": [
+			"bgifin": [
 				"gnome-shell-extension-tailscale-gnome-qs",
 				"input-leap",
                                 "nautilus-open-any-terminal"
 			],
-			"bluefin-dx": [],
-			"bluefin-framework": []
+			"bgifin-dx": [],
+			"bgifin-framework": []
 		},
 		"exclude": {
-			"bluefin": [
+			"bgifin": [
 				"podman-docker",
 				"gnome-terminal-nautilus"
 			],
-			"bluefin-dx": [],
-			"bluefin-framework": []
+			"bgifin-dx": [],
+			"bgifin-framework": []
 		}
 	}
 }
