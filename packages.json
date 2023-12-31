@@ -4,6 +4,7 @@
 			"bluefin": [
 				"bash-color-prompt",
 				"cockpit-bridge",
+				"dolphin",
 				"evtest",
 				"glow",
 				"gum",
@@ -11,9 +12,9 @@
 				"gnome-shell-extension-blur-my-shell",
 				"gnome-shell-extension-dash-to-dock",
 				"gnome-shell-extension-gsconnect",
-				"gnome-shell-extension-logo-menu",
 				"hplip",
 				"ifuse",
+				"kvantum",
 				"input-remapper",
 				"libgda-sqlite",
 				"libgda",
@@ -32,7 +33,6 @@
 				"samba",
 				"solaar",
 				"stress-ng",
-				"tailscale",
 				"tmux",
 				"ublue-update",
 				"usbmuxd",
@@ -135,8 +135,6 @@
 	"39": {
 		"include": {
 			"bluefin": [
-				"gnome-shell-extension-tailscale-gnome-qs",
-				"input-leap",
                                 "nautilus-open-any-terminal"
 			],
 			"bluefin-dx": [],
